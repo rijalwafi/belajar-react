@@ -1,0 +1,17 @@
+.post {
+  width: 500px;
+  height: 160px;
+  overflow: hidden;
+  margin: 10px;
+  border-radius: 5px;
+  border: 1px solid black;
+  box-shadow: 2px 1px 0 0.5px black;
+  display: flex;
+}
+.img-thumb {
+  width: 200px;
+  height: 150px;
+  margin: 5px 5px 10px;
+  image-orientation: flip;
+  background-repeat: no-repeat;
+}
